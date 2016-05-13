@@ -1,0 +1,5 @@
+# https://github.com/mathiasbynens/dotfiles/blob/master/.exports
+
+# electron淘宝镜像 供electron-download系列使用
+# https://github.com/electron-userland/electron-download
+export ELECTRON_MIRROR="https://npm.taobao.org/mirrors/electron/"
