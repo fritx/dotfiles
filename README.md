@@ -1,6 +1,6 @@
 # dotfiles
 
-<img width="90" height="20" src="https://cdn.rawgit.com/fritx/dotfiles/master/prs-welcome.svg">
+<img width="90" height="20" src="https://fritx.github.io/51voa-cli/img/prs-welcome.svg">
 
 
 边学边整。。。暂无使用指南
